@@ -91,15 +91,14 @@
                         <i class="fa fa-phone" aria-hidden="true"></i>
                         <select name="Interested" id="packages3">
                             <option>Select Package</option>
-                            <option value="BASIC LOGO Package - $39.00">Basic Logo Package - $39.00</option>
-                            <option value="STARTUP LOGO Package - $65.00">Startup Logo Package - $65.00</option>
-                            <option value="PROFESSIONAL LOGO Package - $99.99">Professional Logo Package - $99.99
+                            <option value="STARTUP WEBSITE Package - $249.00">STARTUP WEBSITE Package - $249.00</option>
+                            <option value="PROFESSIONAL WEBSITE Package - $399.00">PROFESSIONAL WEBSITE Package - $399.00</option>
+                            <option value="Interactive WEBSITE Package - $599.00">Interactive WEBSITE Package - $599.00
                             </option>
-                            <option value="BUSINESS LOGO Package - $149.99">Business Logo Package - $149.99</option>
-                            <option value="LOGO & WEB Package Only $249.99">Logo & Web Package Only $249.99</option>
+                            <option value="E-commerce Website Package - $799.00">E-commerce Website  Package - $799.00</option>
+                            <option value="BUSINESS WEBSITE Package - $949.00">BUSINESS WEBSITE Package - $949.00</option>
+                            <option value="ELITE WEBSITE Package - $1299.00">ELITE WEBSITE Package - $1299.00</option>
                         </select>
-
-                        <input type="hidden" id="packages-val2" class="placeholder1" name="Interest" value="">
                     </li>
                 </ul>
             </div>
