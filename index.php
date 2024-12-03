@@ -6,7 +6,7 @@ include 'include/header.php';?>
     <div class="col-span-3 relative">
       <h1 class="sm:text-5xl text-2xl font-bold text-white md:leading-[55px]">
         Professional Website Development Starting <br> From
-        <span class="text-[#FE5F00]">$199</span>
+        <span class="text-[#FE5F00]">$249</span>
         Only
       </h1>
       <p class="text-white mt-2 md:mt-0 text-xl">
@@ -68,12 +68,12 @@ include 'include/header.php';?>
         <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started" class="px-4 flex item-center rounded-lg text-lg h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all" data-src="#popupform2"><button style="outline:none;" class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website Now</button></a>
       </div>
     </div>
-    <form
+    <form onSubmit="handleBannerForm(event, 'BannerFormWebsite')"
       class="bg-white shadow-2xl !border-2 !border-[#E4FF3E] !outline-[#E4FF3E] py-4 px-8 md:w-[93%] col-span-2 w-full h-fit mx-auto rounded-xl relative">
       <h1 class="text-center text-[#FE5F00] text-2xl font-bold mb-3">Limited Time Offer</h1>
       <div class="space-y-4">
         <div>
-          <input placeholder="Name" type="text" id="lname"
+          <input placeholder="Name" type="text" id="name"
             class="w-full text-black p-3 text-base focus:outline-none border rounded !border-[#C6C6C6] bg-[#F3F3F3]" />
         </div>
         <div>
@@ -89,7 +89,8 @@ include 'include/header.php';?>
             class="w-full text-black p-3 text-base focus:outline-none border rounded !border-[#C6C6C6] bg-[#F3F3F3]"></textarea>
         </div>
       </div>
-      <button class="w-full py-3 text-xl font-medium bg-[#FE5F00] mt-3 rounded-lg text-white">Get Started Now</button>
+      <button type="submit" class="w-full py-3 text-xl font-medium bg-[#FE5F00] mt-3 rounded-lg text-white">Get Started
+        Now</button>
       <img src="asets/images/blackfriday-tag.jpg" alt="" class="left-0 -top-11 absolute !z-30">
     </form>
   </div>
@@ -169,7 +170,7 @@ include 'include/header.php';?>
   </div>
 </section>
 
-<section id="about" class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px] space-y-10">
+<section class="sm:w-[85%] w-[90%] mx-auto py-20 2xl:w-[1500px] space-y-10">
   <div class="space-y-5">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
     Empowering Businesses with Affordable, <br> <span class="text-[#FE5F00]"> Custom Website Development.</span>
@@ -204,7 +205,7 @@ include 'include/header.php';?>
       </div>
     </li>
     <li>
-      <div class="h-icon">
+      <div class="h-icon" id="about">
         <img class="mx-auto" src="assets/images/help-icon-5.png" />
         <p class="text-center">Industry Proven <br />Professionals</p>
       </div>
@@ -249,7 +250,7 @@ include 'include/header.php';?>
         <div class="about-txt-st">
           <h2>what we do</h2>
           <p class="mt-3">
-          At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we combine years of experience, creativity, and dedication to deliver the best results for our clients. Our talented team focuses on providing top-quality services, from logo design to website development and digital marketing, helping your business grow and succeed. We’re here to bring your ideas to life with professionalism and care.
+          At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we combine years of experience, creativity, and dedication to deliver the best results for our clients. Our talented team focuses on providing top-quality services, from website design to website development and digital marketing, helping your business grow and succeed. We’re here to bring your ideas to life with professionalism and care.
           </p>
           <div class="flex gap-6 mt-4">
             <div
@@ -277,7 +278,7 @@ include 'include/header.php';?>
     <h3 class="text-4xl font-bold">Not Sure Where to Start? </h3>
     <p class="text-xl">Contact our expert design team today and let’s bring your ideas to life.</p>
     <div class="flex items-center flex-wrap gap-3 justify-center mt-4">
-      <div>
+      <div  id="testimonial">
         <a href="tel:+14372949609" class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg">Call Now</a>
       </div>
       <button class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg chat banner-btn yb-btn various">Talk to an Expert</button>
@@ -286,7 +287,7 @@ include 'include/header.php';?>
   </div>
 </section>
 
-<section id="testimonial" class="our-testimonial">
+<section class="our-testimonial">
     <div class="container test-upp !w-[1350px] !sm:w-[1350px]">
         <div class="row sm:mx-12">
             <div class="col-md-12 test-right">
@@ -297,16 +298,16 @@ include 'include/header.php';?>
                             <img src="assets/images/7.webp" alt="test-1">
                         </div>
                         <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"I’m so happy with the logo they created for my business!"
+                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"A Seamless Experience from Start to Finish!"
                             </blockquote>
                             <p class="mt-4 text-muted-foreground">
-                            I wasn’t sure if they’d really get what I was looking for, but they nailed it! The design is exactly what I wanted and fits my brand perfectly. The team was easy to work with and super creative. Thank you for doing such an amazing job!
+                            Working with the team was a delight! They took my vague ideas and turned them into a vibrant and professional brand identity. Every detail was thoughtfully crafted, and their attention to detail made all the difference. Highly recommended!
                             </p>
                             <div class="flex items-center mt-6">
                                 <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="Steven D. Henry" />
                                 <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">Emily R. Johnson</p>
-                                    <p class="text-sm text-muted-foreground">Creative Director, BrightVista</p>
+                                    <p class="font-medium text-primary-foreground">Sarah J. Miller, Marketing Head</p>
+                                    <p class="text-sm text-muted-foreground">GreenSky Solutions</p>
                                 </div>
                             </div>
                         </div>
@@ -317,16 +318,16 @@ include 'include/header.php';?>
                             <img src="assets/images/2.webp" alt="test-2">
                         </div>
                         <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"I couldn’t have asked for a better experience!"
+                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"Creative, Reliable, and Always On-Time!"
                             </blockquote>
                             <p class="mt-4 text-muted-foreground">
-                            I wasn’t entirely sure what I wanted at first, but their team was so patient and helpful throughout the process. Asked the right questions, shared creative ideas, and delivered a logo that’s absolutely perfect for my brand.
+                            From the initial meeting to the final delivery, the team showcased professionalism and creativity. They designed a website that not only looks stunning but is also highly functional. Their commitment to deadlines and client satisfaction is unmatched.
                             </p>
                             <div class="flex items-center mt-6">
                                 <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Jane S. Doe" />
                                 <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">Sarah L. Adams</p>
-                                    <p class="text-sm text-muted-foreground">Green Valley Studio</p>
+                                    <p class="font-medium text-primary-foreground">Michael D. Carter, Owner</p>
+                                    <p class="text-sm text-muted-foreground">UrbanClick Agency</p>
                                 </div>
                             </div>
                         </div>
@@ -337,16 +338,16 @@ include 'include/header.php';?>
                             <img src="assets/images/6.webp" alt="test-3">
                         </div>
                         <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"The team went above and beyond my expectations!"
+                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"They Understood Our Vision Perfectly!"
                             </blockquote>
                             <p class="mt-4 text-muted-foreground">
-                            From the very first consultation, they understood exactly what I needed. They took my rough ideas and transformed them into a professional and eye-catching logo. The whole experience was seamless, and their quick turnaround time was just the cherry on top. I’m so glad I chose them for this project!
+                            We needed a modern, minimalist design for our startup's website, and they nailed it! The team understood our vision, worked tirelessly, and delivered beyond our expectations. Their ability to turn ideas into reality is truly impressive.
                             </p>
                             <div class="flex items-center mt-6">
                                 <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Mark T. Lee" />
                                 <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">David L. Harris, CEO</p>
-                                    <p class="text-sm text-muted-foreground">Swift Tech Solutions</p>
+                                    <p class="font-medium text-primary-foreground">Linda K. Williams, Founder</p>
+                                    <p class="text-sm text-muted-foreground">BlueTrail Ventures</p>
                                 </div>
                             </div>
                         </div>

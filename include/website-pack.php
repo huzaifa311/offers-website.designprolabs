@@ -9,7 +9,7 @@
                         <p>Perfect for small businesses starting their online journey.</p>
                     </div>
                     <div class="pack-price">
-                        <h4 class="pack-amt"><sup>$</sup>199.00 <span class="old_price">$299 <sub>Only</sub></span></h4>
+                        <h4 class="pack-amt"><sup>$</sup>249.00 <span class="old_price">$349 <sub>Only</sub></span></h4>
                     </div>
                     <div class="pack-list pack-ul">
                         <ul>
@@ -28,9 +28,10 @@
                         </ul>
                     </div>
                     <div class="pack-btn">
+                        
                         <ul>
-                            <li><a href="javascript:;" name="STARTUP WEBSITE Package - $199.00" data-fancybox=""
-                                    title="STARTUP WEBSITE Package - $199.00" data-src="#popupform"
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)"name="STARTUP WEBSITE Package - $249.00" data-fancybox=""
+                                    title="STARTUP WEBSITE Package - $249.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
@@ -95,7 +96,7 @@
                     </div>
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="PROFESSIONAL WEBSITE Package - $399.00" data-fancybox=""
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="PROFESSIONAL WEBSITE Package - $399.00" data-fancybox=""
                                     title="PROFESSIONAL WEBSITE Package - $399.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
@@ -161,7 +162,7 @@
                     </div>
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="Interactive WEBSITE Package - $599.00" data-fancybox=""
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="Interactive WEBSITE Package - $599.00" data-fancybox=""
                                     title="ELITE WEBSITE Package - $599.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
@@ -219,7 +220,7 @@
                     </div>
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="E-commerce Website Package - $799.00" data-fancybox=""
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="E-commerce Website Package - $799.00" data-fancybox=""
                                     title="E-commerce Website Package - $799.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
@@ -236,7 +237,7 @@
             <div class="col-md-4 pack-item">
                 <div class="pack-inn">
                     <div class="pack-header">
-                        <h3 class="pack-name">BUSINESS WEBSITE<br>Package</h3>
+                        <h3 class="pack-name">BUSINESS WEBSITE <br>Package</h3>
                         <p>Perfect for businesses wanting advanced functionality.</p>
                     </div>
                     <div class="pack-price">
@@ -292,8 +293,8 @@
                     </div>
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="BUSINESS WEB Package - $949.00" data-fancybox=""
-                                    title="BUSINESS WEB Package - $949.00" data-src="#popupform"
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="BUSINESS WEBSITE Package - $949.00" data-fancybox=""
+                                    title="BUSINESS WEBSITE Package - $949.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
@@ -368,7 +369,7 @@
                     </div>
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="ELITE WEBSITE Package - $1299.00" data-fancybox=""
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="ELITE WEBSITE Package - $1299.00" data-fancybox=""
                                     title="ELITE WEBSITE Package - $7000.00" data-src="#popupform"
                                     class="order_now various">Start Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
