@@ -65,7 +65,7 @@ include 'include/header.php';?>
           <a href="javascript:;" class="chat hover:!text-white">Talk With Expert
           </a>
         </div>
-        <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started" class="px-4 flex item-center rounded-lg text-lg h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all" data-src="#popupform2"><button style="outline:none;" class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Logo Now</button></a>
+        <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started" class="px-4 flex item-center rounded-lg text-lg h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all" data-src="#popupform2"><button style="outline:none;" class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website Now</button></a>
       </div>
     </div>
     <form
