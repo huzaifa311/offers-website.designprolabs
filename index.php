@@ -288,77 +288,84 @@ include 'include/header.php';?>
 </section>
 
 <section class="our-testimonial">
-    <div class="container test-upp !w-[1350px] !sm:w-[1350px]">
-        <div class="row sm:mx-12">
-            <div class="col-md-12 test-right">
-            <div id="testslider" class="owl-carousel">
-                    <!-- Slide 1 -->
-                    <div class="test-item grid grid-cols-2 gap-8">
-                        <div>
-                            <img src="assets/images/7.webp" alt="test-1">
-                        </div>
-                        <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"A Seamless Experience from Start to Finish!"
-                            </blockquote>
-                            <p class="mt-4 text-muted-foreground">
-                            Working with the team was a delight! They took my vague ideas and turned them into a vibrant and professional brand identity. Every detail was thoughtfully crafted, and their attention to detail made all the difference. Highly recommended!
-                            </p>
-                            <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="Steven D. Henry" />
-                                <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">Sarah J. Miller, Marketing Head</p>
-                                    <p class="text-sm text-muted-foreground">GreenSky Solutions</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Slide 2 -->
-                    <div class="test-item grid grid-cols-2 gap-8">
-                        <div>
-                            <img src="assets/images/2.webp" alt="test-2">
-                        </div>
-                        <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"Creative, Reliable, and Always On-Time!"
-                            </blockquote>
-                            <p class="mt-4 text-muted-foreground">
-                            From the initial meeting to the final delivery, the team showcased professionalism and creativity. They designed a website that not only looks stunning but is also highly functional. Their commitment to deadlines and client satisfaction is unmatched.
-                            </p>
-                            <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Jane S. Doe" />
-                                <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">Michael D. Carter, Owner</p>
-                                    <p class="text-sm text-muted-foreground">UrbanClick Agency</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Slide 3 -->
-                    <div class="test-item grid grid-cols-2 gap-8">
-                        <div>
-                            <img src="assets/images/6.webp" alt="test-3">
-                        </div>
-                        <div class="max-w-lg p-6">
-                            <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"They Understood Our Vision Perfectly!"
-                            </blockquote>
-                            <p class="mt-4 text-muted-foreground">
-                            We needed a modern, minimalist design for our startup's website, and they nailed it! The team understood our vision, worked tirelessly, and delivered beyond our expectations. Their ability to turn ideas into reality is truly impressive.
-                            </p>
-                            <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Mark T. Lee" />
-                                <div class="ml-4">
-                                    <p class="font-medium text-primary-foreground">Linda K. Williams, Founder</p>
-                                    <p class="text-sm text-muted-foreground">BlueTrail Ventures</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+  <div class="container test-upp !w-[1350px] !sm:w-[1350px]">
+    <div class="row sm:mx-12">
+      <div class="col-md-12 test-right">
+        <div id="testslider" class="owl-carousel">
+          <!-- Slide 1 -->
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+              <img src="assets/images/7.webp" alt="test-1">
             </div>
+            <div class="max-w-lg p-6">
+              <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"A Seamless Experience from Start to Finish!"
+              </blockquote>
+              <p class="mt-4 text-muted-foreground">
+                Working with the team was a delight! They took my vague ideas and turned them into a vibrant and
+                professional brand identity. Every detail was thoughtfully crafted, and their attention to detail made
+                all the difference. Highly recommended!
+              </p>
+              <div class="flex items-center mt-6">
+                <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="Steven D. Henry" />
+                <div class="ml-4">
+                  <p class="font-medium text-primary-foreground">Sarah J. Miller, Marketing Head</p>
+                  <p class="text-sm text-muted-foreground">GreenSky Solutions</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Slide 2 -->
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+              <img src="assets/images/2.webp" alt="test-2">
+            </div>
+            <div class="max-w-lg p-6">
+              <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"Creative, Reliable, and Always On-Time!"
+              </blockquote>
+              <p class="mt-4 text-muted-foreground">
+                From the initial meeting to the final delivery, the team showcased professionalism and creativity. They
+                designed a website that not only looks stunning but is also highly functional. Their commitment to
+                deadlines and client satisfaction is unmatched.
+              </p>
+              <div class="flex items-center mt-6">
+                <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Jane S. Doe" />
+                <div class="ml-4">
+                  <p class="font-medium text-primary-foreground">Michael D. Carter, Owner</p>
+                  <p class="text-sm text-muted-foreground">UrbanClick Agency</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Slide 3 -->
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div>
+              <img src="assets/images/6.webp" alt="test-3">
+            </div>
+            <div class="max-w-lg p-6">
+              <blockquote class="text-[#FE6F19] text-[24px] font-[600]">"They Understood Our Vision Perfectly!"
+              </blockquote>
+              <p class="mt-4 text-muted-foreground">
+                We needed a modern, minimalist design for our startup's website, and they nailed it! The team understood
+                our vision, worked tirelessly, and delivered beyond our expectations. Their ability to turn ideas into
+                reality is truly impressive.
+              </p>
+              <div class="flex items-center mt-6">
+                <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Mark T. Lee" />
+                <div class="ml-4">
+                  <p class="font-medium text-primary-foreground">Linda K. Williams, Founder</p>
+                  <p class="text-sm text-muted-foreground">BlueTrail Ventures</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Aap aur slides bhi add kar sakte hain agar chahen -->
         </div>
+      </div>
     </div>
+  </div>
 
-    <!-- Custom Dots Container -->
-    <div class="d-flex arr-gap"></div>
+  <!-- Custom Dots Container -->
+  <div class="d-flex arr-gap"></div>
 </section>
 
 <?php include 'include/footer.php';?>
