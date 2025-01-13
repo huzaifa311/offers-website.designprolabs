@@ -59,13 +59,13 @@ include 'include/header.php';?>
           </div>
         </li>
       </ul>
-      <div class="gap-3 mt-3 flex flex-wrap items-center">
+      <div class="md:gap-3 mt-3 flex flex-wrap justify-start justify-between items-center">
         <div
-          class="bg-transparent text-white border border-white text-xl hover:opacity-90 rounded transition-all duration-300 active:scale-90 w-fit py-3 px-4">
+          class="bg-transparent text-white border border-white text-xl hover:opacity-90 rounded transition-all duration-300 active:scale-90 w-fit p-2 md:py-3 md:px-4">
           <a href="javascript:;" class="chat hover:!text-white">Talk With Expert
           </a>
         </div>
-        <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started" class="px-4 flex item-center rounded-lg text-lg h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all" data-src="#popupform2"><button style="outline:none;" class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website Now</button></a>
+        <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started" class="md:px-4 md:py-0 p-2 flex item-center rounded-lg text-lg md:h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all" data-src="#popupform2"><button style="outline:none;" class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website Now</button></a>
       </div>
     </div>
     <form onSubmit="handleBannerForm(event, 'BannerFormWebsite')"
