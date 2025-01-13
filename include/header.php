@@ -14,6 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include 'include/css.php'; ?>
     <title><?php echo isset($title) ? $title : 'Home'; ?></title>
+    <meta name="google-site-verification" content="eoQvGFbRf4tINHldCoPIUiDqaD8icW2ghKB_3s__4Og" />
 </head>
 
 <body class="hompg">
