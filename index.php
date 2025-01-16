@@ -69,7 +69,7 @@ include 'include/header.php'; ?>
         </div>
         <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started"
           class="md:!px-4 md:py-0 p-2 flex item-center rounded-lg text-lg md:h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all"
-          data-src="#popupform2"><button style="outline:none;"
+          data-src="#popupform"><button style="outline:none;"
             class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website
             Now</button></a>
       </div>
@@ -156,7 +156,7 @@ include 'include/header.php'; ?>
           class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg">See
           Pricing</a>
       </div>
-      <button data-src="#popupform2" name="for $244" data-fancybox="" title="Lets Get Started"
+      <button data-src="#popupform" name="for $244" data-fancybox="" title="Lets Get Started"
         class="py-[14px] px-[11px] text-[18px] font-medium text-lg bg-[#FE5F00] text-white rounded">Let's Work
         Together</button>
     </div>
@@ -527,7 +527,7 @@ include 'include/header.php'; ?>
       <button
         class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg chat banner-btn yb-btn various">Talk
         to an Expert</button>
-      <button data-src="#popupform2" name="for $244" data-fancybox="" title="Lets Get Started"
+      <button data-src="#popupform" name="for $244" data-fancybox="" title="Lets Get Started"
         class="py-[14px] px-[11px] text-[18px] font-medium text-lg bg-[#FE5F00] text-white rounded">Let's Work
         Together</button>
     </div>
