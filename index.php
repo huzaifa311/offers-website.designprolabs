@@ -37,7 +37,7 @@ include 'include/header.php'; ?>
             <div class="h-4 w-4 rounded-full flex items-center justify-center bg-white whitespace-nowrap">
               <img src="assets/images/check.png" alt="tick" class="h-[11px] object-fit">
             </div>
-            <p class="text-white text-[15px] font-light	">Responsive and Mobile Optimization
+            <p class="text-white text-[15px] font-light	">Social Media Integration
 
             </p>
           </div>
@@ -116,7 +116,7 @@ include 'include/header.php'; ?>
         class="w-[200px] py-2 active !border-2 !border-black text-black font-medium rounded nav-link" id="tab-Custom"
         data-bs-toggle="pill" data-bs-target="#content-Custom" type="button" role="tab" aria-controls="content-Custom"
         aria-selected="true">
-        Custom Websites
+        CMS Websites
       </button>
     </li>
     <li class="nav-item" role="presentation">
@@ -241,21 +241,7 @@ include 'include/header.php'; ?>
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                Facebook Page Design
-
-              </li>
-              <li class="flex items-start text-black">
-                <i
-                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                Twitter Page Design
-
-
-              </li>
-              <li class="flex items-start text-black">
-                <i
-                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                YouTube Page Design
-
+                Social Media Integration
 
               </li>
               <li class="flex items-start text-black">
@@ -265,14 +251,7 @@ include 'include/header.php'; ?>
 
 
               </li>
-              <li class="flex items-start text-black">
-                <i
-                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                100% Unique Design Guarantee
-
-
-
-              </li>
+              
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
@@ -284,19 +263,13 @@ include 'include/header.php'; ?>
             </ul>
           </div>
           <div>
-            <h4 class="text-lg font-semibold text-gray-800 mb-3">Additional Add-ons
+            <h4 class="text-lg font-semibold text-gray-800 mb-3">Add-ons
             </h4>
             <ul class="text-sm text-gray-600 space-y-2">
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc)
-
-              </li>
-              <li class="flex items-start text-black">
-                <i
-                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Mobile
-                Responsive Would Be Additional $100*
+                Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc) Responsive Would Be Additional $100*
 
               </li>
               <li class="flex items-start text-black">

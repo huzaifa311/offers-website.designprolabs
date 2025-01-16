@@ -84,7 +84,7 @@
                         <li class="dot-before">Cart Integration</li>
                         <li class="dot-before">Pay. Module Integration</li>
                         <li class="dot-before">Inventory Management</li>
-                        <li class="dot-before">Unitd. Products & Cate</li>
+                        <li class="dot-before">Unlimited Products & Categories</li>
                         <li class="dot-before">Easy Product Search</li>
                         <li class="dot-before">Product Reviews</li>
                         <!-- <li class="dot-before">Web Design & UI</li> -->
