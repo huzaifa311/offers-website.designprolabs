@@ -124,7 +124,7 @@ include 'include/header.php'; ?>
         class="w-[200px] py-2 !border-2 !border-black text-black font-medium rounded nav-link" id="tab-Ecommerce"
         data-bs-toggle="pill" data-bs-target="#content-Ecommerce" type="button" role="tab"
         aria-controls="content-Ecommerce" aria-selected="false">
-        Ecommerce Websites
+        E-Commerce Websites
       </button>
     </li>
   </ul>
@@ -189,27 +189,28 @@ include 'include/header.php'; ?>
   <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
       Promotional
-    </h2>`
+    </h2>
   </div>
   <div class="!max-w-[70rem] mx-auto mt-8 ">
     <div class="!max-w-[70rem] mx-auto mt-8 mb-8 md:mb-0 shadow-lg">
-    <div
-    class="bg-white relative hover:bg-[#FE5F00] rounded-lg p-6 border-4 border-orange-500 flex flex-wrap !flex-col md:!flex-row bg-before items-center"
-    style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);">
-    <span class="after-for-big-pricing"></span>
+      <div
+        class="bg-white relative hover:bg-[#FE5F00] rounded-lg p-6 md:py-12 border-4 border-orange-500 flex flex-wrap !flex-col md:!flex-row bg-before items-center "
+        style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);">
+        <span class="after-for-big-pricing"></span>
         <div class="text-center w-full sm:w-1/3 !hover:bg-transparent">
-          <div class="flex justify-center items-center mb-4">
+          <div class="flex justify-center mb-1">
             <i class="fas fa-layer-group text-4xl text-orange-600"></i>
           </div>
           <h3 class="text-xl font-semibold text-gray-800">One Pager Website</h3>
-          <p class="text-6xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
+          <p class="text-5xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
           <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8" class="hidden md:inline">
-            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+            <button
+              class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
               <i class="fas fa-hand-pointer"></i> Buy Now - Click
             </button>
           </a>
         </div>
-        <div class="mt-8 sm:w-2/3 grid grid-cols-1 md:grid-cols-2 gap-6 !hover:bg-transparent">
+        <div class="mt-8 md:mt-0 sm:w-2/3 grid grid-cols-1 md:grid-cols-2 gap-6 !hover:bg-transparent">
           <div>
             <h4 class="text-lg font-semibold text-gray-800 mb-3">Features</h4>
             <ul class="text-sm text-gray-600 space-y-2">
@@ -218,12 +219,6 @@ include 'include/header.php'; ?>
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 Page Website
               </li>
-              <!-- <li class="flex items-start text-black">
-                <i
-                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                1 Banner Design
-
-              </li> -->
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>5
@@ -249,7 +244,7 @@ include 'include/header.php'; ?>
 
 
               </li>
-              
+
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
@@ -281,94 +276,17 @@ include 'include/header.php'; ?>
         </div>
         <img class="absolute left-0 top-0 h-36" src="assets/images/promotional.png" />
         <a class="md:hidden inline" href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8">
-            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
-              <i class="fas fa-hand-pointer"></i> Buy Now - Click
-            </button>
-          </a>
+          <button
+            class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+            <i class="fas fa-hand-pointer"></i> Buy Now - Click
+          </button>
+        </a>
       </div>
     </div>
 
   </div>
 
 </section>
-
-
-<!-- <section class="packages-block !mt-20 !p-0" id="pricingSection">
-  <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
-    <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
-      Premium Logo Package
-    </h2>
-    <p class="text-center text-wrap -mt-2">
-      Our logos are mixed with next-level creativity, swift edges and colors that are fused rightly to carry your
-      business well.
-    </p>
-  </div>
-  <div>
-    <div class="max-w-5xl mx-auto mt-8">
-      <div class="bg-white shadow-lg rounded-lg relative p-6 border-4 border-red-500">
-        <div class="absolute top-0 right-0 bg-black text-white text-xs font-semibold px-2 py-1 rounded-bl-lg">
-          PROMOTIONAL
-        </div>
-        <div class="text-center">
-          <div class="flex justify-center items-center mb-4">
-            <i class="fas fa-layer-group"></i>
-          </div>
-          <h3 class="text-xl font-semibold text-gray-800">Premium Logo</h3>
-          <p class="text-4xl font-bold text-red-600">$349</p>
-          <button
-            class="mt-4 px-6 py-2 bg-red-600 text-white text-sm font-medium rounded-full hover:bg-red-700 focus:outline-none">
-            <span class="inline-flex items-center gap-2">
-              <i class="fas fa-shopping-cart"></i> Buy Now - Click
-            </span>
-          </button>
-        </div>
-        <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div>
-            <h4 class="text-lg font-semibold text-gray-800 mb-3">Logo Design</h4>
-            <ul class="text-sm text-gray-600 space-y-2">
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Lead by Art Director (15 Years of design experience)
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> 100% Ownership
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> UNLIMITED LOGO Concepts & UNLIMITED Revisions
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> All Master Editable Ai File, PDF, EPS, JPG & PNG
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> 48 hours Delivery Time
-              </li>
-            </ul>
-          </div>
-          <div>
-            <h4 class="text-lg font-semibold text-gray-800 mb-3">Free Add on</h4>
-            <ul class="text-sm text-gray-600 space-y-2">
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Business Card Design & Letterhead Design
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Hat/Cap Design & T-shirt Design
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Font names, Color codes
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Black and White version
-              </li>
-              <li class="flex items-start">
-                <span class="text-green-500 mr-2">✔</span> Social Cover design (FB, Twitter, LinkedIn, etc.)
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</section> -->
 
 <section class="sm:w-[85%] w-[90%] mx-auto py-20 2xl:w-[1500px] space-y-10">
   <div class="space-y-5">
