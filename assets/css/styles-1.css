@@ -25151,7 +25151,7 @@ footer .logo-div{
     transition-timing-function: cubic-bezier(.25, .25, .75, .75);
     transition-duration: 0.4s;
     transition-property: opacity, transform;
-    right: -10px;
+    left: -10px;
     bottom: -10px;
     border-radius: 0 6px 6px 6px;
 }
@@ -25170,6 +25170,6 @@ footer .logo-div{
     transition-duration: .4s;
     transition-property: opacity, transform;
     border-radius: 6px 6px 0 6px;
-    left: -10px;
+    right: -10px;
     top: -10px;
 }

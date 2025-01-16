@@ -91,10 +91,10 @@
                         <li class="dot-before">Web Design & UI</li>
                         <li class="dot-before">15 Stock Images</li>
                         <li class="dot-before">8 Banner Designs</li>
-                        <li class="dot-before">Favicon</li>
+                        <!-- <li class="dot-before">Favicon</li> -->
                         <li class="dot-before">Advance UI Effects</li>
                         <li class="dot-before">Basic Search Engine Submission</li>
-                        <li class="dot-before">SEO Friendly Design</li>
+                        <!-- <li class="dot-before">SEO Friendly Design</li> -->
                         <li class="dot-before">SEO Friendly Sitemap</li>
                         <li class="dot-before">Analytics Integration</li>
                         <li class="dot-before">Social Media Integration</li>
