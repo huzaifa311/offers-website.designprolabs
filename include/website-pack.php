@@ -79,7 +79,6 @@
                     <ul>
                         <li class="dot-before">Web Development</li>
                         <li class="dot-before">W3C Certified HTML</li>
-                        <li class="dot-before">Admin Panel Support</li>
                         <li class="dot-before">Mobile Responsive Layout</li>
                         <li class="dot-before">Customers Login Area</li>
                         <li class="dot-before">Cart Integration</li>
@@ -88,17 +87,17 @@
                         <li class="dot-before">Unitd. Products & Cate</li>
                         <li class="dot-before">Easy Product Search</li>
                         <li class="dot-before">Product Reviews</li>
-                        <li class="dot-before">Web Design & UI</li>
+                        <!-- <li class="dot-before">Web Design & UI</li> -->
                         <li class="dot-before">15 Stock Images</li>
-                        <li class="dot-before">8 Banner Designs</li>
+                        <!-- <li class="dot-before">8 Banner Designs</li> -->
                         <!-- <li class="dot-before">Favicon</li> -->
                         <li class="dot-before">Advance UI Effects</li>
-                        <li class="dot-before">Basic Search Engine Submission</li>
+                        <!-- <li class="dot-before">Basic Search Engine Submission</li> -->
                         <!-- <li class="dot-before">SEO Friendly Design</li> -->
                         <li class="dot-before">SEO Friendly Sitemap</li>
                         <li class="dot-before">Analytics Integration</li>
                         <li class="dot-before">Social Media Integration</li>
-                        <li class="dot-before">4 Social Platforms</li>
+                        <!-- <li class="dot-before">4 Social Platforms</li> -->
                     </ul>
 
                     </div>
@@ -127,6 +126,7 @@
                         <li><strong>Any One:</strong></li>
                         <li class="dot-before">Job Portal</li>
                         <li class="dot-before">Professional Network</li>
+                        <li class="dot-before">Admin Panel Support</li>
                         <li class="dot-before">Social Network</li>
                         <li class="dot-before">Media Portal</li>
                         <li class="dot-before">Real Estate Portal</li>

@@ -192,9 +192,9 @@ include 'include/header.php'; ?>
     </h2>`
   </div>
   <div class="!max-w-[70rem] mx-auto mt-8 ">
-    <div class="!max-w-[70rem] mx-auto mt-8 ">
+    <div class="!max-w-[70rem] mx-auto mt-8 mb-8 md:mb-0 shadow-lg">
     <div
-    class="bg-white relative shadow-lg hover:bg-[#FE5F00] rounded-lg p-6 border-4 border-orange-500 flex flex-wrap !flex-col md:!flex-row bg-before items-center"
+    class="bg-white relative hover:bg-[#FE5F00] rounded-lg p-6 border-4 border-orange-500 flex flex-wrap !flex-col md:!flex-row bg-before items-center"
     style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);">
     <span class="after-for-big-pricing"></span>
         <div class="text-center w-full sm:w-1/3 !hover:bg-transparent">
@@ -204,7 +204,7 @@ include 'include/header.php'; ?>
           <h3 class="text-xl font-semibold text-gray-800">Promotional
             One Pager Web</h3>
           <p class="text-6xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
-          <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 hidden md:inline py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all ">
+          <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 hidden md:inline py-2 bg-orange-600 font-medium rounded-md hover:bg-white hover:!text-[#FE5F00] transition-all ">
             <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
               class="text-white text-lg hover:!text-[#FE5F00]">
               <i class=" fas fa-hand-pointer"></i> Buy Now - Click
@@ -215,57 +215,57 @@ include 'include/header.php'; ?>
           <div>
             <h4 class="text-lg font-semibold text-gray-800 mb-3">Features</h4>
             <ul class="text-sm text-gray-600 space-y-2">
-              <li class="flex items-start text-md">
+              <li class="flex items-start text-black text-md">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 Page Website
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 Banner Design
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>5
                 Stock Photos
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 jQuery Slider Banner
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 Facebook Page Design
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 Twitter Page Design
 
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 YouTube Page Design
 
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 100% Satisfaction Guarantee
 
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 100% Unique Design Guarantee
@@ -273,7 +273,7 @@ include 'include/header.php'; ?>
 
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 100% Money Back Guarantee*
@@ -287,19 +287,19 @@ include 'include/header.php'; ?>
             <h4 class="text-lg font-semibold text-gray-800 mb-3">Additional Add-ons
             </h4>
             <ul class="text-sm text-gray-600 space-y-2">
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc)
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Mobile
                 Responsive Would Be Additional $100*
 
               </li>
-              <li class="flex items-start">
+              <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Content
                 Management System (CMS) Would Be Additional $100*
