@@ -25173,3 +25173,7 @@ footer .logo-div{
     right: -10px;
     top: -10px;
 }
+
+.fancybox-container{
+    z-index: 2000000000 !important;
+}

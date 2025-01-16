@@ -23,9 +23,7 @@
                         
                         <ul>
                             <li>
-                                <!-- <a href="https://www.paypal.com/ncp/payment/R7BK8S386EKGU"
-                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a> -->
-                                <a href="https://www.paypal.com/ncp/payment/XJXZ4UK4PVK2L"
+                                <a href="https://www.paypal.com/ncp/payment/R7BK8S386EKGU"
                                     class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a>
                                 </li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>

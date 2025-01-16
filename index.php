@@ -69,7 +69,7 @@ include 'include/header.php'; ?>
         </div>
         <a href="javascript:;" name="for $244" data-fancybox="" title="Lets Get Started"
           class="md:!px-4 md:py-0 p-2 flex item-center rounded-lg text-lg md:h-16 !hover:text-black bg-[#FE6F19] !border-[#FE6F19] text-white border focus:outline-none transition-all"
-          data-src="#popupform2"><button style="outline:none;"
+          data-src="#popupform"><button style="outline:none;"
             class="hover:text-black transition-all hover:!text-white hover:!opacity-90">Claim Your Website
             Now</button></a>
       </div>
@@ -156,7 +156,7 @@ include 'include/header.php'; ?>
           class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg">See
           Pricing</a>
       </div>
-      <button data-src="#popupform2" name="for $244" data-fancybox="" title="Lets Get Started"
+      <button data-src="#popupform" name="for $244" data-fancybox="" title="Lets Get Started"
         class="py-[14px] px-[11px] text-[18px] font-medium text-lg bg-[#FE5F00] text-white rounded">Let's Work
         Together</button>
     </div>
@@ -201,15 +201,13 @@ include 'include/header.php'; ?>
           <div class="flex justify-center items-center mb-4">
             <i class="fas fa-layer-group text-4xl text-orange-600"></i>
           </div>
-          <h3 class="text-xl font-semibold text-gray-800">Promotional
-            One Pager Web</h3>
+          <h3 class="text-xl font-semibold text-gray-800">One Pager Website</h3>
           <p class="text-6xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
-          <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 hidden md:inline py-2 bg-orange-600 font-medium rounded-md hover:bg-white hover:!text-[#FE5F00] transition-all ">
-            <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
-              class="text-white text-lg hover:!text-[#FE5F00]">
-              <i class=" fas fa-hand-pointer"></i> Buy Now - Click
-            </a>
-          </button>
+          <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8" class="hidden md:inline">
+            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+              <i class="fas fa-hand-pointer"></i> Buy Now - Click
+            </button>
+          </a>
         </div>
         <div class="mt-8 sm:w-2/3 grid grid-cols-1 md:grid-cols-2 gap-6 !hover:bg-transparent">
           <div>
@@ -220,12 +218,12 @@ include 'include/header.php'; ?>
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 Page Website
               </li>
-              <li class="flex items-start text-black">
+              <!-- <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
                 1 Banner Design
 
-              </li>
+              </li> -->
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>5
@@ -269,25 +267,24 @@ include 'include/header.php'; ?>
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
-                Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc) Responsive Would Be Additional $100*
+                Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc) Responsive would Be Additional $100*
 
               </li>
               <li class="flex items-start text-black">
                 <i
                   class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Content
-                Management System (CMS) Would Be Additional $100*
+                Management System (CMS) would Be Additional $100*
 
               </li>
             </ul>
           </div>
         </div>
         <img class="absolute left-0 top-0 h-36" src="assets/images/promotional.png" />
-        <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 inline md:hidden py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all ">
-            <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
-              class="text-white text-lg hover:!text-[#FE5F00]">
-              <i class=" fas fa-hand-pointer"></i> Buy Now - Click
-            </a>
-          </button>
+        <a class="md:hidden inline" href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8">
+            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+              <i class="fas fa-hand-pointer"></i> Buy Now - Click
+            </button>
+          </a>
       </div>
     </div>
 
@@ -500,7 +497,7 @@ include 'include/header.php'; ?>
       <button
         class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg chat banner-btn yb-btn various">Talk
         to an Expert</button>
-      <button data-src="#popupform2" name="for $244" data-fancybox="" title="Lets Get Started"
+      <button data-src="#popupform" name="for $244" data-fancybox="" title="Lets Get Started"
         class="py-[14px] px-[11px] text-[18px] font-medium text-lg bg-[#FE5F00] text-white rounded">Let's Work
         Together</button>
     </div>
