@@ -204,12 +204,11 @@ include 'include/header.php'; ?>
           <h3 class="text-xl font-semibold text-gray-800">Promotional
             One Pager Web</h3>
           <p class="text-6xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
-          <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 hidden md:inline py-2 bg-orange-600 font-medium rounded-md hover:bg-white hover:!text-[#FE5F00] transition-all ">
-            <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
-              class="text-white text-lg hover:!text-[#FE5F00]">
-              <i class=" fas fa-hand-pointer"></i> Buy Now - Click
-            </a>
-          </button>
+          <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8" class="hidden md:inline">
+            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+              <i class="fas fa-hand-pointer"></i> Buy Now - Click
+            </button>
+          </a>
         </div>
         <div class="mt-8 sm:w-2/3 grid grid-cols-1 md:grid-cols-2 gap-6 !hover:bg-transparent">
           <div>
@@ -309,12 +308,11 @@ include 'include/header.php'; ?>
           </div>
         </div>
         <img class="absolute left-0 top-0 h-36" src="assets/images/promotional.png" />
-        <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 inline md:hidden py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all ">
-            <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
-              class="text-white text-lg hover:!text-[#FE5F00]">
-              <i class=" fas fa-hand-pointer"></i> Buy Now - Click
-            </a>
-          </button>
+        <a class="md:hidden inline" href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8">
+            <button class="mt-3 hover:!border-[#FE5F00] hover:!border-2 px-6 py-2 bg-orange-600 font-medium rounded-md hover:bg-white transition-all hover:!text-[#FE5F00] !text-white">
+              <i class="fas fa-hand-pointer"></i> Buy Now - Click
+            </button>
+          </a>
       </div>
     </div>
 
