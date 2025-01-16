@@ -8,9 +8,9 @@
                 <h3 class="uppercase text-2xl font-semibold text-white md:text-center !text-left">Reach us at</h3>
                 <ul class="contact-link !text-gray-300 space-y-2 mt-3">
                     <li class="!mx-0 !text-left">
-                        <a class="telicon hover:text-white !mx-0 !text-left" href="tel:4372949609">
+                        <a class="telicon hover:text-white !mx-0 !text-left" href="tel:+17379103666">
                             <i class="fa !mr-1 fa-phone"></i>
-                            (437) 294-9609
+                            (737) 910-3666
                         </a>
                     </li>
                     <li class="!mx-0 !text-left">
@@ -22,7 +22,7 @@
                     <li class="!mx-0 !text-left">
                         <a class="telicon hover:text-white !mx-0 !text-left" href="javascript:;">
                             <i class="fa !mr-1 fa-map-marker"></i>
-                            <strong>Mailing Address :</strong>
+                            <strong>Address :</strong>
                             5900 Balcones Drive #7494, Austin,TX 78731
                         </a>
                     </li>
@@ -132,11 +132,11 @@
                 <li class="text-[14px] text-[#848484] text-left leading-[0px]">✔ 100% Ownership Rights</li>
             </ul>
             <div class="mt-3">
-                <img class="w-7"
+                <!-- <img class="w-7"
                     src="https://e7.pngegg.com/pngimages/972/560/png-clipart-whatsapp-computer-icons-whatsapp-text-orange.png"
-                    alt="">
+                    alt=""> -->
                 <p class="text-[13px] text-[#848484]">Discuss with our Design Expert Today!</p>
-                <p class="font-bold text-[22px] text-[#FE6F19]">+1 (437) 294-9609</p>
+                <p class="font-bold text-[22px] text-[#FE6F19]">+1 (737) 910-3666</p>
             </div>
         </div>
         <form onSubmit="handlePopupRectForm(event, 'popupRectangularFormWebsite')" class="!mt-10 !mr-2">
