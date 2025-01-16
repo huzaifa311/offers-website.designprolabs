@@ -19,28 +19,13 @@
                             <li class="dot-before">SEO Friendly Design</li>
                         </ul>
                     </div>
-                    <!-- <div class="pack-list pack-ul">
-                        <ul>
-                            <li class="dot-before">5 Stock Photos</li>
-                            <li class="dot-before">3 Page Website</li>
-                            <li class="dot-before">3 Banner Design</li>
-                            <li class="dot-before">1 jQuery Slider Banner</li>
-                            <li class="dot-before">FREE Google Friendly Sitemap</li>
-                            <li class="dot-before">Complete W3C Certified HTML</li>
-                            <li class="dot-before">48 to 72 hours TAT</li>
-                            <li class="dot-before">Facebook Page Design</li>
-                            <li class="dot-before">Twitter Page Design</li>
-                            <li class="dot-before">YouTube Page Design</li>
-                            <li class="dot-before">100% Satisfaction Guarantee</li>
-                            <li class="dot-before">100% Money Back Guarantee*</li>
-                        </ul>
-                    </div> -->
                     <div class="pack-btn">
                         
                         <ul>
-                            <li><a href="javascript:;" onclick="get_packagess(this.name)"name="HTML" data-fancybox=""
-                                    title="HTML Webiste" data-src="#popupform"
-                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a></li>
+                            <li>
+                                <a href="https://www.paypal.com/ncp/payment/R7BK8S386EKGU"
+                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a>
+                                </li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
                     </div>
@@ -68,28 +53,13 @@
                             <li class="dot-before">4 Social Platforms</li>
                         </ul>
                     </div>
-                    <!-- <div class="pack-list pack-ul">
-                        <ul>
-                            <li class="dot-before">5 Stock Photos</li>
-                            <li class="dot-before">3 Page Website</li>
-                            <li class="dot-before">3 Banner Design</li>
-                            <li class="dot-before">1 jQuery Slider Banner</li>
-                            <li class="dot-before">FREE Google Friendly Sitemap</li>
-                            <li class="dot-before">Complete W3C Certified HTML</li>
-                            <li class="dot-before">48 to 72 hours TAT</li>
-                            <li class="dot-before">Facebook Page Design</li>
-                            <li class="dot-before">Twitter Page Design</li>
-                            <li class="dot-before">YouTube Page Design</li>
-                            <li class="dot-before">100% Satisfaction Guarantee</li>
-                            <li class="dot-before">100% Money Back Guarantee*</li>
-                        </ul>
-                    </div> -->
                     <div class="pack-btn">
                         
                         <ul>
-                            <li><a href="javascript:;" onclick="get_packagess(this.name)"name="CMS Website" data-fancybox=""
-                                    title="CMS Website" data-src="#popupform"
-                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a></li>
+                            <li>
+                                <a href="https://www.paypal.com/ncp/payment/MY3NY62K777FC"
+                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a>
+                                </li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
                     </div>
@@ -130,28 +100,12 @@
                     </ul>
 
                     </div>
-                    <!-- <div class="pack-list pack-ul">
-                        <ul>
-                            <li class="dot-before">5 Stock Photos</li>
-                            <li class="dot-before">3 Page Website</li>
-                            <li class="dot-before">3 Banner Design</li>
-                            <li class="dot-before">1 jQuery Slider Banner</li>
-                            <li class="dot-before">FREE Google Friendly Sitemap</li>
-                            <li class="dot-before">Complete W3C Certified HTML</li>
-                            <li class="dot-before">48 to 72 hours TAT</li>
-                            <li class="dot-before">Facebook Page Design</li>
-                            <li class="dot-before">Twitter Page Design</li>
-                            <li class="dot-before">YouTube Page Design</li>
-                            <li class="dot-before">100% Satisfaction Guarantee</li>
-                            <li class="dot-before">100% Money Back Guarantee*</li>
-                        </ul>
-                    </div> -->
                     <div class="pack-btn">
                         
                         <ul>
-                            <li><a href="javascript:;" onclick="get_packagess(this.name)"name="E-Commerce Website" data-fancybox=""
-                                    title="E-Commerce Website" data-src="#popupform"
-                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a></li>
+                            <li>
+                                <a href="https://www.paypal.com/ncp/payment/LQA6LA5HJPKC6" class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a>
+                                </li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
                     </div>
@@ -185,28 +139,12 @@
                     </ul>
 
                     </div>
-                    <!-- <div class="pack-list pack-ul">
-                        <ul>
-                            <li class="dot-before">5 Stock Photos</li>
-                            <li class="dot-before">3 Page Website</li>
-                            <li class="dot-before">3 Banner Design</li>
-                            <li class="dot-before">1 jQuery Slider Banner</li>
-                            <li class="dot-before">FREE Google Friendly Sitemap</li>
-                            <li class="dot-before">Complete W3C Certified HTML</li>
-                            <li class="dot-before">48 to 72 hours TAT</li>
-                            <li class="dot-before">Facebook Page Design</li>
-                            <li class="dot-before">Twitter Page Design</li>
-                            <li class="dot-before">YouTube Page Design</li>
-                            <li class="dot-before">100% Satisfaction Guarantee</li>
-                            <li class="dot-before">100% Money Back Guarantee*</li>
-                        </ul>
-                    </div> -->
                     <div class="pack-btn">
                         
                         <ul>
-                            <li><a href="javascript:;" onclick="get_packagess(this.name)"name="Portal Website" data-fancybox=""
-                                    title="Portal Website" data-src="#popupform"
-                                    class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a></li>
+                            <li>
+                                <a href="https://www.paypal.com/ncp/payment/XK89QBUVA3T2G" class="order_now various fas fa-hand-pointer flex items-center gap-2">Buy Now - Click</a>
+                                </li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
                         </ul>
                     </div>

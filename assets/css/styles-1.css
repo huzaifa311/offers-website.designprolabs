@@ -25133,3 +25133,43 @@ footer .logo-div{
         display: block;
     }
 }
+
+.fa-xs{
+    font-size: 10px;
+}
+
+
+.after-for-big-pricing {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    width: calc(50% - 340px);
+    height: calc(50% + 10px);
+    border: none;
+    background-image: -webkit-linear-gradient(45deg, #FE5F00 15%, orange 65%);
+    background-image: linear-gradient(45deg, #FE5F00 15%, orange 65%);
+    transition-timing-function: cubic-bezier(.25, .25, .75, .75);
+    transition-duration: 0.4s;
+    transition-property: opacity, transform;
+    right: -10px;
+    bottom: -10px;
+    border-radius: 0 6px 6px 6px;
+}
+
+
+.bg-before::before {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    width: calc(18% + 10px);
+    height: calc(45% + 10px);
+    border: none;
+    background-image: -webkit-linear-gradient(45deg, #FE5F00 15%, orange 65%);
+    background-image: linear-gradient(45deg, #FE5F00 15%, orange 65%);
+    transition-timing-function: cubic-bezier(.25, .25, .75, .75);
+    transition-duration: .4s;
+    transition-property: opacity, transform;
+    border-radius: 6px 6px 0 6px;
+    left: -10px;
+    top: -10px;
+}

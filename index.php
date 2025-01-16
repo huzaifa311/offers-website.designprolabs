@@ -1,5 +1,5 @@
 <?php $title = "Design Pro Labs | Special Offer";
-include 'include/header.php';?>
+include 'include/header.php'; ?>
 
 <section id="home" class="sm:!h-[109vh] !h-fit w-full pt-32 relative pb-20 flex items-center">
   <div
@@ -134,12 +134,12 @@ include 'include/header.php';?>
   <div class="tab-content">
     <!-- Custom Website Tab -->
     <div class="tab-pane fade show active" id="content-Custom" role="tabpanel" aria-labelledby="tab-Custom">
-      <?php include 'include/website-portfolio.php';?>
+      <?php include 'include/website-portfolio.php'; ?>
     </div>
 
     <!-- Ecommerce Websites Tab -->
     <div class="tab-pane fade" id="content-Ecommerce" role="tabpanel" aria-labelledby="tab-Ecommerce">
-      <?php include 'include/ecomm-portfolio.php';?>
+      <?php include 'include/ecomm-portfolio.php'; ?>
     </div>
   </div>
 </section>
@@ -166,7 +166,7 @@ include 'include/header.php';?>
 <section class="packages-block !mt-20 !p-0" id="pricingSection">
   <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
-      Pricing Plans That Fit Every Need!
+      Pricing Plans That Fit Every Need
     </h2>
     <p class="text-center text-wrap -mt-2">
       At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we offer high-quality services at
@@ -179,86 +179,145 @@ include 'include/header.php';?>
       <div class="tab-content ">
         <div id="logo" class="tab-pane fade in active show">
           <!-- logo_pack -->
-          <?php include 'include/website-pack.php';?>
+          <?php include 'include/website-pack.php'; ?>
         </div>
       </div>
     </div>
   </div>
 </section>
-
 <section class="packages-block !mt-20 !p-0" id="pricingSection">
   <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
-      Pricing Plans That Fit Every Need!
-    </h2>
-    <p class="text-center text-wrap -mt-2">
-      At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we offer high-quality services at
-      prices that work for everyone. Whether you're starting small or need the best, our packages are designed to match
-      your goals and budget. Choose the plan that fits your needs and let us help you create something amazing!
-    </p>
+      Promotional
+      One Pager Web
+    </h2>`
   </div>
-  <div class="max-w-5xl mx-auto mt-8">
-    <div class="absolute top-0 right-0 bg-black text-white text-xs font-semibold px-2 py-1 rounded-bl-lg">
-      PROMOTIONAL
-    </div>
-    <div class="bg-white shadow-lg rounded-lg relative p-6 border-4 border-red-500 flex">
-      <div class="text-center">
-        <div class="flex sm:w-[33%] justify-center items-center mb-4">
-          <img src="https://via.placeholder.com/50" alt="Premium Logo Icon" class="h-12 w-12">
+  <div class="!max-w-[70rem] mx-auto mt-8 ">
+    <div class="!max-w-[70rem] mx-auto mt-8 ">
+    <div
+    class="bg-white reltive shadow-lg hover:bg-[#FE5F00] rounded-lg relative p-6 border-4 border-orange-500 flex flex-wrap !flex-col md:!flex-row bg-before items-center">
+    <span class="after-for-big-pricing"></span>
+        <div class="text-center w-full sm:w-1/3 !hover:bg-transparent">
+          <div class="flex justify-center items-center mb-4">
+            <i class="fas fa-layer-group text-4xl text-orange-600"></i>
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Promotional
+            One Pager Web</h3>
+          <p class="text-6xl font-bold text-orange-600"><span class="text-3xl font-semibold">$</span>249</p>
+          <button class="mt-3">
+            <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
+              class="px-6 hidden md:inline py-2 bg-orange-600 text-white text-lg font-medium rounded-md hover:bg-white hover:border-[#FE5F00] hover:border-2 transition-all hover:!text-[#FE5F00]">
+              <i class=" fas fa-hand-pointer"></i> Buy Now - Click
+            </a>
+          </button>
         </div>
-        <h3 class="text-xl font-semibold text-gray-800">Premium Logo</h3>
-        <p class="text-4xl font-bold text-red-600">$349</p>
-        <button
-          class="mt-4 px-6 py-2 bg-red-600 text-white text-sm font-medium rounded-full hover:bg-red-700 focus:outline-none">
-          <span class="inline-flex items-center gap-2">
-            <i class="fas fa-shopping-cart"></i> Buy Now - Click
-          </span>
-        </button>
+        <div class="mt-8 sm:w-2/3 grid grid-cols-1 md:grid-cols-2 gap-6 !hover:bg-transparent">
+          <div>
+            <h4 class="text-lg font-semibold text-gray-800 mb-3">Features</h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-start text-md">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                1 Page Website
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                1 Banner Design
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>5
+                Stock Photos
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                1 jQuery Slider Banner
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                Facebook Page Design
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                Twitter Page Design
+
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                YouTube Page Design
+
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                100% Satisfaction Guarantee
+
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                100% Unique Design Guarantee
+
+
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                100% Money Back Guarantee*
+
+
+
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4 class="text-lg font-semibold text-gray-800 mb-3">Additional Add-ons
+            </h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>
+                Cross Platform Reponsive Capabilty (Desktop,iPhone, Android, etc)
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Mobile
+                Responsive Would Be Additional $100*
+
+              </li>
+              <li class="flex items-start">
+                <i
+                  class="fas fa-check text-[#FE5F00] fa-xs	mt-1 mr-2 border border-1 !border-[#FE5F00] px-1 py-2 rounded-full"></i>Content
+                Management System (CMS) Would Be Additional $100*
+
+              </li>
+            </ul>
+          </div>
+        </div>
+        <img class="absolute right-0 top-0 h-28" src="assets/images/promotional.jpg" />
+        <a href="https://www.paypal.com/ncp/payment/JY6SR7PE89PF8"
+          class="mt-5 px-6 md:hidden inline py-2 bg-orange-600 text-white text-lg font-medium rounded-md hover:bg-white hover:border-[#FE5F00] hover:border-2 transition-all !hover:text-[#FE5F00]">
+          <i class=" fas fa-hand-pointer"></i> Buy Now - Click
+        </a>
       </div>
-      <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div>
-          <h4 class="text-lg font-semibold text-gray-800 mb-3">Logo Design</h4>
-          <ul class="text-sm text-gray-600 space-y-2">
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Lead by Art Director (15 Years of design experience)
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> 100% Ownership
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> UNLIMITED LOGO Concepts & UNLIMITED Revisions
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> All Master Editable Ai File, PDF, EPS, JPG & PNG
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> 48 hours Delivery Time
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h4 class="text-lg font-semibold text-gray-800 mb-3">Free Add on</h4>
-          <ul class="text-sm text-gray-600 space-y-2">
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Business Card Design & Letterhead Design
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Hat/Cap Design & T-shirt Design
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Font names, Color codes
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Black and White version
-            </li>
-            <li class="flex items-start">
-              <span class="text-green-500 mr-2">✔</span> Social Cover design (FB, Twitter, LinkedIn, etc.)
-            </li>
-          </ul>
-        </div>
-      </div>
     </div>
+
   </div>
+
 </section>
 
 
@@ -554,4 +613,4 @@ include 'include/header.php';?>
   <div class="d-flex arr-gap"></div>
 </section>
 
-<?php include 'include/footer.php';?>
+<?php include 'include/footer.php'; ?>
