@@ -1,7 +1,3 @@
-<a href="https://wa.me/+14378262236" target="_blank" class="fixed md:bottom-6 bottom-3 md:right-36 right-24 z-50">
-    <img src="assets/images/whatsapp.svg" alt="whatsapp" class=" shadow-lg  h-14">
-</a>
-
 <footer class="!px-0 pt-16 pb-20 w-full">
     <div class="w-[85%] mx-auto ">
         <div class="logo-div grid grid-cols-1 md:grid-cols-4 md:gap-0 gap-7">

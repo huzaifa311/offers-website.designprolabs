@@ -51,17 +51,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
         <div class="menu-left">
-            <div class="menu-lover"></div>
             <div class="menu-linn">
-                <div class="menu-lclose"> <i class="fa fa-times"></i>
-                </div>
+                <!-- <div class="menu-lclose"> <i class="fa fa-times"></i>
+                </div> -->
                 <div class="main-menu">
                     <ul>
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#pricingSection">Packages</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#testimonial">Testimonial</a></li>
+                        <li><a onclick="handlenav()" href="#home">Home</a></li>
+                        <li><a onclick="handlenav()" href="#portfolio">Portfolio</a></li>
+                        <li><a onclick="handlenav()" href="#pricingSection">Packages</a></li>
+                        <li><a onclick="handlenav()" href="#about">About</a></li>
+                        <li><a onclick="handlenav()" href="#testimonial">Testimonial</a></li>
                     </ul>
                 </div>
             </div>

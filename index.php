@@ -1,7 +1,7 @@
 <?php $title = "Design Pro Labs | Special Offer";
 include 'include/header.php';?>
 
-<section id="home" class="sm:!h-[109vh] !h-fit w-full pt-28 relative pb-20 flex items-center">
+<section id="home" class="sm:!h-[109vh] !h-fit w-full pt-32 relative pb-20 flex items-center">
   <div
     class="grid md:grid-cols-5 grid-cols-1 md:gap-0 gap-10 items-center sm:w-[85%] w-[90%] mx-auto z-20  2xl:w-[1500px]">
     <div class="col-span-3 relative">
